@@ -18,4 +18,4 @@ To get started, create a docsConfig.json file in your project root directory wit
 1. Run `npm install ngdocs -g` to create the ngdocs package.
 1. Run ngdocs from your project root folder.
 
-See https://github.com/idanush/ngdocs/wiki/API-Docs-Syntax for documenting your code.
+See https://github.com/cyclopslabs/ngdocs/wiki/API-Docs-Syntax for documenting your code.
